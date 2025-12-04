@@ -1,0 +1,6 @@
+# Azure deployment configuration
+
+- Use Node.js 22 LTS
+- App entry point: index.js
+- Port: Use environment variable PORT (default 3000)
+- Express.js for HTTP server

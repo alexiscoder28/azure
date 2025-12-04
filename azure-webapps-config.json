@@ -1,0 +1,12 @@
+// This file is required for Azure App Service deployments
+{
+  "version": 2.0,
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "maxTelemetryItemsPerSecond" : 5
+      }
+    }
+  }
+}

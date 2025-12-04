@@ -1,0 +1,15 @@
+{
+  "name": "azure-hello-world",
+  "version": "1.0.0",
+  "description": "Sample Hello World Node.js 22 LTS app for Azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
